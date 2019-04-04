@@ -20,3 +20,4 @@ Password Details:
 
   
   Master Password Details:
+  This password must be remembered by the user. It must be extremely strong but easy to remember. Diceware will be the most reliable method for choosing this password as the nature of it protects ot from both Brute Force and Dictionary Attacks.
