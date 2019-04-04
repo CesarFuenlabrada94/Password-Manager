@@ -13,3 +13,10 @@ Method:
 
 Password Details:
   The password generated for all websites (except the cloud server) will be random. There are 96 unique characters in the standard QWERTY keyboard (26 uppercase letters, 26 lowercase letters, 10 numbers, and 34 symbols including whitespace)
+  
+  By using this method, the password will have high security since Brute Force will take at most 96^16 attempts to guess it correctly. Dictionary attacks will be ineffective as well due to the randomness of the password. 
+  
+  Only strings will be generated, the respective website will handle extra security through hashing and/or salting.
+
+  
+  Master Password Details:
