@@ -19,5 +19,9 @@ Password Details:
   Only strings will be generated, the respective website will handle extra security through hashing and/or salting.
 
   
-  Master Password Details:
+Master Password Details:
   This password must be remembered by the user. It must be extremely strong but easy to remember. Diceware will be the most reliable method for choosing this password as the nature of it protects ot from both Brute Force and Dictionary Attacks.
+  
+  Simply put, Diceware uses a list of 7,776 carefully chosen words and chooses 5 words (or more, depending on the user) by using the result of 5 consecutive and unbiased dice rolls.
+  
+  More words will undoubetdly increase the security of the passwords, but
